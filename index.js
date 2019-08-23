@@ -10,8 +10,8 @@ function logShout(strings) {
   console.log( strings.toUpperCase());
 }
 
-function logWhisper(string) {
-  console.log(string.toLowerCase());
+function logWhisper(I cant hear you) {
+  console.log( I can't hear you.toLowerCase());
 }
 
 function sayHiToGrandma(string) {
