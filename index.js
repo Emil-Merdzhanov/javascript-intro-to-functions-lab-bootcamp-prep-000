@@ -5,3 +5,7 @@ function shout(string) {
 function shout(whisper) {
   return whisper.toLowerCase()
 }
+
+var uppercase = "HELLO!"
+ 
+uppercase.toUpperCase() === uppercase
