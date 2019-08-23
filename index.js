@@ -1,1 +1,3 @@
-function shout(strings) {}
+function shout(strings) {
+  return strings.toEpperCase()
+}
