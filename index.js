@@ -1,3 +1,3 @@
 function shout(wisper) {
-  return wisper.toLowerCase()
+  return wisper.toUpperCase()
 }
